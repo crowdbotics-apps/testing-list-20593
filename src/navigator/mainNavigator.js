@@ -11,7 +11,6 @@ import NotificationList106531Navigator from '../features/NotificationList106531/
 import Settings106530Navigator from '../features/Settings106530/navigator';
 import Settings106522Navigator from '../features/Settings106522/navigator';
 import UserProfile106520Navigator from '../features/UserProfile106520/navigator';
-import Camera1106498Navigator from '../features/Camera1106498/navigator';
 
 /**
  * new navigators can be imported here
@@ -26,7 +25,6 @@ NotificationList106531: { screen: NotificationList106531Navigator },
 Settings106530: { screen: Settings106530Navigator },
 Settings106522: { screen: Settings106522Navigator },
 UserProfile106520: { screen: UserProfile106520Navigator },
-Camera1106498: { screen: Camera1106498Navigator },
 
     /** new navigators can be added here */
     SplashScreen: {
